@@ -1,0 +1,10 @@
+E:\School - First Semester\Introduction To Programming\Chapter 7\Village Bike Shop Reservation\VillageBikeShopReservation\VillageBikeShopReservation\bin\VillageBikeShopReservation.dll
+E:\School - First Semester\Introduction To Programming\Chapter 7\Village Bike Shop Reservation\VillageBikeShopReservation\VillageBikeShopReservation\bin\VillageBikeShopReservation.pdb
+E:\School - First Semester\Introduction To Programming\Chapter 7\Village Bike Shop Reservation\VillageBikeShopReservation\VillageBikeShopReservation\bin\VillageBikeShopReservation.xml
+E:\School - First Semester\Introduction To Programming\Chapter 7\Village Bike Shop Reservation\VillageBikeShopReservation\VillageBikeShopReservation\obj\Debug\ResolveAssemblyReference.cache
+E:\School - First Semester\Introduction To Programming\Chapter 7\Village Bike Shop Reservation\VillageBikeShopReservation\VillageBikeShopReservation\obj\Debug\VillageBikeShopReservation.Resources.resources
+E:\School - First Semester\Introduction To Programming\Chapter 7\Village Bike Shop Reservation\VillageBikeShopReservation\VillageBikeShopReservation\obj\Debug\GenerateResource.read.1.tlog
+E:\School - First Semester\Introduction To Programming\Chapter 7\Village Bike Shop Reservation\VillageBikeShopReservation\VillageBikeShopReservation\obj\Debug\GenerateResource.write.1.tlog
+E:\School - First Semester\Introduction To Programming\Chapter 7\Village Bike Shop Reservation\VillageBikeShopReservation\VillageBikeShopReservation\obj\Debug\VillageBikeShopReservation.dll
+E:\School - First Semester\Introduction To Programming\Chapter 7\Village Bike Shop Reservation\VillageBikeShopReservation\VillageBikeShopReservation\obj\Debug\VillageBikeShopReservation.xml
+E:\School - First Semester\Introduction To Programming\Chapter 7\Village Bike Shop Reservation\VillageBikeShopReservation\VillageBikeShopReservation\obj\Debug\VillageBikeShopReservation.pdb
