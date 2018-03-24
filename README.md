@@ -3,3 +3,7 @@ A Web application utilizing ASP.NET to allow users to reserve rental bikes onlin
 
 # Usage
 The user may enter their name, address, and phone number. They also should select the ype of bike, number of hours, data, and number of bicicles needed. The final cost of the order is then displayed. Data Validation tools are used for processing inputs.
+
+#Screenshot
+More available in screenshots folder.
+![Error loading image](/screenshots/DataValid.png)
